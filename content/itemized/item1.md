@@ -2,7 +2,7 @@
 type = "itemized"
 author = "George Jetson"
 date = "2017-06-22"
-title = "Gitチート集"
+title = "item1"
 description = "Application for doing cool things."
 featured = ""
 featuredpath = ""

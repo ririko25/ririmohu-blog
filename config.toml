@@ -1,6 +1,6 @@
 baseURL = "https://ririmohu.com"
 languageCode = "en-us"
-title = "ririko"
+title = "ririlog"
 theme = "hugo-future-imperfect"
 hasCJKLanguage = "true"
 
@@ -118,7 +118,7 @@ canonifyURLs = true
   weight = 1
 
 [[menu.main]]
-  name = "about"
+  name = "plofile"
   url = "/about/"
   identifier = "fa fa-id-card-o"
   weight = 2

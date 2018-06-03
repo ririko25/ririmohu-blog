@@ -1,9 +1,9 @@
 +++
-title = "カニカマ食べ放題ツアー2018に参加してきた話"
-date = "2018-06-03"
+title = "profile"
+date = "2018-06-04"
 +++
 
-株式会社[kanikama](https://github.com/spf13/cobra)主催の 3 泊 4 日のカニカマ食べ放題ツアーに参加してきました！
+testblog
 
 * [kani](https://github.com/spf13/cobra)
 * [kani](https://github.com/spf13/viper)
