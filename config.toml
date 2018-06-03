@@ -118,7 +118,7 @@ canonifyURLs = true
   weight = 1
 
 [[menu.main]]
-  name = "plofile"
+  name = "profile"
   url = "/about/"
   identifier = "fa fa-id-card-o"
   weight = 2
@@ -160,22 +160,22 @@ canonifyURLs = true
   codepen          = ""
   # Visual Art Communities
   deviantart       = ""
-  flickr           = "example"
+  flickr           = ""
   behance          = ""
   dribbble         = ""
   # Publishing Communities
   wordpress        = ""
   medium           = ""
   # Professional/Business Oriented Communities
-  linkedin         = "example"
-  linkedin_company = "examplebusiness"
+  linkedin         = ""
+  linkedin_company = ""
   foursquare       = ""
   xing             = ""
   slideshare       = ""
   # Social Networks
   facebook         = "example"
   googleplus       = ""
-  reddit           = "example"
+  reddit           = ""
   quora            = ""
   youtube          = ""
   vimeo            = ""
@@ -183,16 +183,16 @@ canonifyURLs = true
     # WeChat and QQ need testing.
     wechat         = ""
     qq             = "" # User ID Number
-  instagram        = "example"
+  instagram        = ""
   tumblr           = ""
   twitter          = "example"
   skype            = ""
   snapchat         = ""
-  pinterest        = "example"
-  telegram         = "example"
+  pinterest        = ""
+  telegram         = ""
   vine             = ""
   googlescholar    = ""
   orcid            = ""
-  researchgate     = "example"
+  researchgate     = ""
   # Email
   email            = "example"
