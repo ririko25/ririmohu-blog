@@ -88,9 +88,9 @@ canonifyURLs = true
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
 [params.intro]
-  header    = "testblog"
+  header    = "mohulog"
 
-  paragraph = "testブログ。 <i class='fa fa-hand-peace-o'></i> <a href=\"http://html5up.net\">HTML5 UP</a>"
+  paragraph = "testブログ<i class='fa fa-hand-peace-o'></i>"
 
   about     = "profile<br>デザイナー"
 
@@ -118,7 +118,7 @@ canonifyURLs = true
   weight = 1
 
 [[menu.main]]
-  name = "profile"
+  name = "about"
   url = "/about/"
   identifier = "fa fa-id-card-o"
   weight = 2
@@ -152,7 +152,7 @@ canonifyURLs = true
 # and socialAppearAtBottom.
 [social]
   # Coding Communities
-  github           = "jpescador/hugo-future-imperfect"
+  github           = "ririko25"
   gitlab           = ""
   stackoverflow    = "" # User Number
   bitbucket        = ""
@@ -173,7 +173,7 @@ canonifyURLs = true
   xing             = ""
   slideshare       = ""
   # Social Networks
-  facebook         = "example"
+  facebook         = "ririko25"
   googleplus       = ""
   reddit           = ""
   quora            = ""
@@ -185,7 +185,7 @@ canonifyURLs = true
     qq             = "" # User ID Number
   instagram        = ""
   tumblr           = ""
-  twitter          = "example"
+  twitter          = "riri_mohu"
   skype            = ""
   snapchat         = ""
   pinterest        = ""
@@ -195,4 +195,4 @@ canonifyURLs = true
   orcid            = ""
   researchgate     = ""
   # Email
-  email            = "example"
+  email            = ""

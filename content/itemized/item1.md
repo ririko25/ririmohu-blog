@@ -1,9 +1,9 @@
 +++
 type = "itemized"
-author = "George Jetson"
-date = "2017-06-22"
-title = "item1"
-description = "Application for doing cool things."
+author = "ririko"
+date = "0000-00-00"
+title = "まとめ"
+description = "memo"
 featured = ""
 featuredpath = ""
 featuredalt = ""
