@@ -93,9 +93,9 @@ canonifyURLs = true
 [params.intro]
   header    = "mohulog"
 
-  paragraph = "testブログ<i class='fa fa-hand-peace-o'></i>"
+  paragraph = "testブログ"
 
-  about     = "profile<br>デザイナー"
+  about     = ""
 
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
@@ -123,7 +123,7 @@ canonifyURLs = true
 [[menu.main]]
   name = "about"
   url = "/about/"
-  identifier = "fa fa-id-card-o"
+  identifier = "far fa-address-card"
   weight = 2
 
 [[menu.main]]
@@ -141,13 +141,13 @@ canonifyURLs = true
 [[menu.main]]
   name = "Categories"
   url = "/categories/"
-  identifier = "fa fa-sitemap"
+  identifier = "fas fa-clone"
   weight = 5
 
 [[menu.main]]
   name = "Contact"
   url = "/contact/"
-  identifier = "fa fa-envelope-o"
+  identifier = "fas fa-envelope"
   weight = 6
 
 # Sets Social Media icons to appear and link to your account. Value should be your
