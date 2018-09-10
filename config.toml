@@ -1,6 +1,6 @@
 baseURL = "https://ririmohu.com"
 languageCode = "en-us"
-title = "ririlog"
+title = "mohulog"
 theme = "hugo-future-imperfect"
 hasCJKLanguage = "true"
 
@@ -17,7 +17,7 @@ canonifyURLs = true
 
 [params]
   # Sets the meta tag description
-  description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
+  description          = "日常の中で学んだことを書いています。"
   # Sets the navbarTitle that appears in the top left of the navigation bar
   navbarTitle          = "mohu log"
   # Sets where "View More Posts" links
@@ -110,7 +110,8 @@ canonifyURLs = true
 
 [params.postAmount]
 # Sets the number of recent posts to show in the sidebar. The default value is 5.
-    sidebar = 5
+# 新着履歴の表示数
+    sidebar = 3
 
 # Sets the menu items in the navigation bar
 # Identifier prepends a Font Awesome icon to the menu item
@@ -126,29 +127,29 @@ canonifyURLs = true
   identifier = "far fa-address-card"
   weight = 2
 
-[[menu.main]]
-  name = "Blog"
-  url = "/blog/"
-  identifier = "fa fa-newspaper-o"
-  weight = 3
+# [[menu.main]]
+#   name = "Blog"
+#   url = "/blog/"
+#   identifier = "fa fa-newspaper-o"
+#   weight = 3
 
-[[menu.main]]
-  name = "Itemized"
-  url = "/itemized/"
-  identifier = "fa fa-list"
-  weight = 4
+# [[menu.main]]
+#   name = "Itemized"
+#   url = "/itemized/"
+#   identifier = "fa fa-list"
+#   weight = 3
 
 [[menu.main]]
   name = "Categories"
   url = "/categories/"
   identifier = "fas fa-clone"
-  weight = 5
+  weight = 3
 
-[[menu.main]]
-  name = "Contact"
-  url = "/contact/"
-  identifier = "fas fa-envelope"
-  weight = 6
+# [[menu.main]]
+#   name = "Contact"
+#   url = "/contact/"
+#   identifier = "fas fa-envelope"
+#   weight = 5
 
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop
